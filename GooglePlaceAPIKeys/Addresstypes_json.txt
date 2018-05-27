@@ -1,0 +1,1155 @@
+{
+    "1369": [
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "01 14 WOODLANDS SPECTRUM 1": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "12 ENTRADA EMPINADA": [
+        "street_address"
+    ],
+    " 20 NORTH ROAD COR  3RD AVNUE": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "4 RIZAL HIGHWAY COR  AIM HIGH": [
+        "intersection"
+    ],
+    "193  HEBBAL INDUSTRIAL AREA": [
+        "street_address"
+    ],
+    "24  BEOTKKOT RO  20 GIL ": [
+        "premise",
+        "political"
+    ],
+    " 20 NORTH ROAD COR  3RD AVENU": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 BROADWAY": [
+        "premise"
+    ],
+    "1 F  TAI PO IND ESTATE": [
+        "premise"
+    ],
+    "1 GREENWICH DR": [
+        "street_address"
+    ],
+    " YAN AN W RD": [
+        "route"
+    ],
+    "16 1 HANGANGRO 2GA YONG SANGU": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "2 MAKILING DRIVE CARMELRAY": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 MARITIME PLZ": [
+        "premise"
+    ],
+    "1 RUE DES CEVENNES": [
+        "premise"
+    ],
+    "2 BLOCK F 1  SUBIC TECHNOPARK": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "6 YESHWANTHPURA TUMKUR ROAD": [
+        "bar",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "SUZHOU CO  LTD  NO 268 SUHON": [
+        "car_dealer",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 AVX BLVD": [
+        "street_address"
+    ],
+    "1 INDUSTRY WAY": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "535 DONGCHUAN ROAD": [
+        "route"
+    ],
+    "366 CHANGJIANG ROAD": [
+        "street_address"
+    ],
+    "658  SHING JUNG RD": [
+        "shoe_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 OMEGA CIRCLE": [
+        "premise"
+    ],
+    "1 SPECTACLE STREET": [
+        "street_address"
+    ],
+    "1 WOODLANDS INDUSTRIAL PARK": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "880 ZIXINGROAD MINHANG  SHANG": [
+        "street_address"
+    ],
+    "1 LEDIN DRIVE": [
+        "premise"
+    ],
+    "1 TECHNOLOGY DRIVE": [
+        "street_address"
+    ],
+    "1 CHANGI NORTH STREET 1 ": [
+        "premise"
+    ],
+    "LUXEMBOURG NO 311 SOUTH FUTE": [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 KAKI BUKIT VIEW  TECHVIEW": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 PARAGON DR STE 200": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 PERSIRAN PULAI JAYA 9": [
+        "street_address"
+    ],
+    "1 FERRY BUILDING": [
+        "premise"
+    ],
+    "1 VISIONS PKWY": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "10 CLINTON PL": [
+        "premise"
+    ],
+    "1000 JOHNSON FERRY RD NE": [
+        "premise"
+    ],
+    "1050 BOSQUE FARMS BLVD.": [
+        "street_address"
+    ],
+    "1060 NIAGARA FALLS BLVD": [
+        "premise"
+    ],
+    "1081 KELLY CREEK CIR": [
+        "premise"
+    ],
+    "1000 HWY 4 SOUTH": [
+        "street_address"
+    ],
+    "1000 INDUSTRIAL BLVD": [
+        "premise"
+    ],
+    "1001 BALTIMORE PIKE": [
+        "premise"
+    ],
+    "1006 CLAIRMORE AVE": [
+        "street_address"
+    ],
+    "101  8978 NOTRE DAME": [
+        "street_address"
+    ],
+    "10201 UNIVERSITY AVE": [
+        "premise"
+    ],
+    "1030 PTI DRIVE": [
+        "street_address"
+    ],
+    "10318 NORRIS AVE": [
+        "premise"
+    ],
+    "10380 RIDGELINE CT": [
+        "premise"
+    ],
+    "10  CLINTON ST": [
+        "premise"
+    ],
+    "10 BRITANNIA STREET": [
+        "premise"
+    ],
+    "1102 15TH ST  SW": [
+        "premise"
+    ],
+    "101 SE INNER LOOP RD": [
+        "street_address"
+    ],
+    "100 CHALLENGER ROAD": [
+        "street_address"
+    ],
+    "1001 SE WATER AVE STE 400": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1003 W  INDIANTOWN RD": [
+        "street_address"
+    ],
+    "10070 WILLOW CREEK ROAD": [
+        "premise"
+    ],
+    "101 HASKINS WAY": [
+        "premise"
+    ],
+    "101 METRO DR STE 750": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "10207 CAMINO RUIZ APT 155": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "10300 SW GREENBURG RD STE 525": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1031 HIGHLAND ST A": [
+        "premise"
+    ],
+    "1031 W BLUE RIDGE DR": [
+        "street_address"
+    ],
+    "10585 HEATER COURT": [
+        "premise"
+    ],
+    "1069 BRIAR VISTA TERRACE NE": [
+        "premise"
+    ],
+    "10987 VIA FRONTERA": [
+        "street_address"
+    ],
+    "11 E  WASHINGTON STREET": [
+        "premise"
+    ],
+    "11 SIXTH ROAD": [
+        "street_address"
+    ],
+    "1 RUE DES CEVEMES": [
+        "premise"
+    ],
+    "1  CHANGI NORTH STREET 1 ": [
+        "premise"
+    ],
+    "10 DEERWOOD LN": [
+        "street_address"
+    ],
+    "10 UPPER ALJUNIED LINK ": [
+        "premise"
+    ],
+    "10  WEST 5TH STREET": [
+        "premise"
+    ],
+    "100 7TH ST": [
+        "premise"
+    ],
+    "100  AMKOR RO  BUK GU ": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1031 HIGHLAND STREET": [
+        "premise"
+    ],
+    "10420 MAYA LINDA": [
+        "street_address"
+    ],
+    "10488 SUPERFORTRESS AVE": [
+        "premise"
+    ],
+    "10515 N SAM HOUSTON PKWY E": [
+        "premise"
+    ],
+    "10635 PENDLETON PIKE": [
+        "premise"
+    ],
+    "1069 BRIAR VISTA TER NE": [
+        "premise"
+    ],
+    "10700 E  GEDDES AVE  300": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1077 GIBRALTAR DR B8": [
+        "street_address"
+    ],
+    "10800 GIBSON BLVD SE": [
+        "street_address"
+    ],
+    "10800 METCALF AVE": [
+        "premise"
+    ],
+    "1081 FULLERTON RD": [
+        "street_address"
+    ],
+    "10159 SW COMMERCE CIRCLE": [
+        "premise"
+    ],
+    "10 UPPER ALJUNIED LINK": [
+        "premise"
+    ],
+    "100 ENTERPRISE DR": [
+        "premise"
+    ],
+    "100 N 20TH AVE": [
+        "street_address"
+    ],
+    "1001 JL BKT MERAH 04 0106": [
+        "premise"
+    ],
+    "1001 SE WATER AVE": [
+        "premise"
+    ],
+    "101 EASTERN AVE": [
+        "street_address"
+    ],
+    "101 ELLIOTT AVE  W   SUITE 100": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "101 N PLAINS INDUSTRIAL ROAD": [
+        "street_address"
+    ],
+    "10360 MACREADY AVE": [
+        "street_address"
+    ],
+    "10 AIRWAYS BLVD": [
+        "street_address"
+    ],
+    "10566 NW  289TH AVE": [
+        "street_address"
+    ],
+    "10566 NW 285TH AVE": [
+        "street_address"
+    ],
+    "10661 BRADDOCK RD": [
+        "street_address"
+    ],
+    "108 LAUREL WOOD DR": [
+        "street_address"
+    ],
+    "1082 W MORELOS ST": [
+        "premise"
+    ],
+    "1084 MOUNT PROSPECT PLAZA  MS": [
+        "department_store",
+        "supermarket",
+        "electronics_store",
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1085 STATELINE RD": [
+        "street_address"
+    ],
+    "10F   NO 176  SEC 2 GONGDAO 5T": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "11 E WASHINGTON ST": [
+        "premise"
+    ],
+    "1102 S ABEL ST APT 364": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1111 BIRD CENTER DR": [
+        "premise"
+    ],
+    "1111 GREENE ST": [
+        "premise"
+    ],
+    "11 L169 S2 CHUNG HSING RD": [
+        "street_address"
+    ],
+    "10 1 HIGASHIKOTARI": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+    ],
+    "1 DELL PARKWAY": [
+        "route"
+    ],
+    "1 SEMINOLE WAY": [
+        "street_address"
+    ],
+    "1 HARBOURFRONT PLACE 03 02HAR": [
+        "street_address"
+    ],
+    "100 FARHAM DR": [
+        "premise"
+    ],
+    "1005 SOUTH 4TH STREET": [
+        "premise"
+    ],
+    "101 SOUTHCHASE BLVD": [
+        "street_address"
+    ],
+    "1010 VALLEY ROAD": [
+        "premise"
+    ],
+    "10100 SMC BLVD": [
+        "premise"
+    ],
+    "10 UBI CRESCENT 02 92": [
+        "premise"
+    ],
+    "1031 HIGHLAND ST": [
+        "premise"
+    ],
+    "10913 NW BARRETT WAY": [
+        "premise"
+    ],
+    "105 OAKMERE CT": [
+        "premise"
+    ],
+    "105 TAYLORS SPRING CT": [
+        "premise"
+    ],
+    "10611 NE FREMONT ST APT 14": [
+        "subpremise"
+    ],
+    "10700 E  GEDESS AVE": [
+        "premise"
+    ],
+    "110 E STATE PKWY": [
+        "premise"
+    ],
+    "1101 CLINT MOORE ROAD": [
+        "premise"
+    ],
+    "11155 SW LEVETON DRIVE": [
+        "street_address"
+    ],
+    "1117 NAVAHO DR": [
+        "premise"
+    ],
+    "1135 N MANSFIELD AVE": [
+        "premise"
+    ],
+    "1138 MANDO DR": [
+        "premise"
+    ],
+    "1151 SONORA CT": [
+        "premise"
+    ],
+    "11522 ROCK ISLAND CT": [
+        "premise"
+    ],
+    "11787 LEE JACKSON MEMORIAL HWY": [
+        "premise"
+    ],
+    "119 FIFTH AVE  2ND FLOOR": [
+        "premise"
+    ],
+    "110  ANAJI RO": [
+        "premise",
+        "political"
+    ],
+    "1100 BOSTON AVENUE": [
+        "street_address"
+    ],
+    "1125 1 SIHINGIL DONG DONWON GU": [
+        "premise",
+        "political"
+    ],
+    "1127 INDUSTRIAL RD": [
+        "street_address"
+    ],
+    "117 PETTACONSETT AVE": [
+        "street_address"
+    ],
+    "117 RESOURECE CENTER PKWY": [
+        "premise"
+    ],
+    "119 AIRPORT CARGO ROAD 02 05": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1111 RILEY STREET": [
+        "street_address"
+    ],
+    "1138 RATHAR DR": [
+        "route"
+    ],
+    "1142 FRANKLIN AVENUE": [
+        "premise"
+    ],
+    "11745 W IH 10": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "119 AIRPORT CARGO ROAD  02 05": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "11902 145 ST E": [
+        "street_address"
+    ],
+    "1200 J ST": [
+        "street_address"
+    ],
+    "1215 E LANGSFORD RD": [
+        "premise"
+    ],
+    "12153 NUTHATCH CT": [
+        "premise"
+    ],
+    "1274 ANVILWOOD AVE": [
+        "premise"
+    ],
+    "1286 LAWRENCE STATION RD": [
+        "premise"
+    ],
+    "11902 145TH ST E": [
+        "premise"
+    ],
+    "120 MAYNARD CROSSING CT": [
+        "premise"
+    ],
+    "120 SOUTH RIVERSIDE PLAZA": [
+        "department_store",
+        "shoe_store",
+        "jewelry_store",
+        "clothing_store",
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1205 W 141 PLACE": [
+        "street_address"
+    ],
+    "122 HIDDEN VALLEY RD": [
+        "premise"
+    ],
+    "1231 NW HOYT ST SUITE 101": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "10904 MEMORIAL HERMANN DR": [
+        "street_address"
+    ],
+    "1093  LOWER DELTA ROAD  01 17": [
+        "premise"
+    ],
+    "10940 NEW KINGS ROAD": [
+        "premise"
+    ],
+    "110 E 50TH ST": [
+        "premise"
+    ],
+    "11290 TWITTY DR": [
+        "premise"
+    ],
+    "115 61 230 ST": [
+        "street_address"
+    ],
+    "1125 1 SHINGIL DONG DANUON GU": [
+        "premise",
+        "political"
+    ],
+    "1102 S  ABEL ST": [
+        "premise"
+    ],
+    "11823 SW WILTON": [
+        "premise"
+    ],
+    "11140 SUN CENTER DR": [
+        "premise"
+    ],
+    "11944 BLACK MOUNTAIN RD UNIT 3": [
+        "subpremise"
+    ],
+    "12 CHANGI NORTH WAY": [
+        "street_address"
+    ],
+    "1200 KIRK ST": [
+        "premise"
+    ],
+    "12012 EASTGATE BLVD": [
+        "store",
+        "point_of_interest",
+        "establishment"
+    ],
+    "121 S WILKE RD STE 300": [
+        "subpremise"
+    ],
+    "1219 WEST GENEVA DR": [
+        "premise"
+    ],
+    "122 MILR ST": [
+        "premise"
+    ],
+    "1221 S  CONGRESS AVENUE": [
+        "premise"
+    ],
+    "1231 NW HOYT ST STE 101": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "12400 SW 134TH CT STE 1": [
+        "subpremise"
+    ],
+    "1250 BAYHILL DR STE 315": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1250 WEST 595 NORTH": [
+        "bar",
+        "night_club",
+        "point_of_interest",
+        "establishment"
+    ],
+    "12540 JEFFERSON DAVIS HWY": [
+        "premise"
+    ],
+    "1255 E UNIVERSITY DR APT 311": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1255 JEANNE   MANCE ST": [
+        "street_address"
+    ],
+    "1201 PERRY RD": [
+        "street_address"
+    ],
+    "12100 RIVERA ROAD": [
+        "street_address"
+    ],
+    "1250 AVIATION AVE": [
+        "premise"
+    ],
+    "126 N COMMERCE WAY": [
+        "premise"
+    ],
+    "12695 SW WATKINS AVE": [
+        "premise"
+    ],
+    "1284 B ALPINE ST": [
+        "street_address"
+    ],
+    "12921 HALLDALE AVE": [
+        "street_address"
+    ],
+    "11902 145ST E": [
+        "street_address"
+    ],
+    "11905 VENICE LOOP NE": [
+        "premise"
+    ],
+    "10204 CAMINO RUIZ APT 144": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "10240 FLANDERS CT": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "10510 NE 66TH ST": [
+        "premise"
+    ],
+    "1069 BRIAR VISTA TERRACE": [
+        "premise"
+    ],
+    "1075 W LAMBERT RD  STE A": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "109 E 42ND ST": [
+        "premise"
+    ],
+    "10945 NW LOST PARK DR": [
+        "premise"
+    ],
+    "109A FILBERT AVE": [
+        "street_address"
+    ],
+    "11859 WILSHIRE BLVD": [
+        "street_address"
+    ],
+    "1188 HURFFVILLE RD": [
+        "premise"
+    ],
+    "11F   NO 176  SEC 2  GONGDAO 5": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "11F EVER GAIN CENTRE": [
+        "premise"
+    ],
+    "12 TANNERY ROAD  04 05": [
+        "premise",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 TAYA CHO SAKAE KU": [
+        "sublocality_level_4",
+        "sublocality",
+        "political"
+    ],
+    "1 PARK BLVD": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1 SUN CT": [
+        "premise"
+    ],
+    "10 1 HIGASHIKOTARI ": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+    ],
+    "1001 WESTGATE DRIVE": [
+        "street_address"
+    ],
+    "10050 16TH STREET NORTH": [
+        "premise"
+    ],
+    "101 WALDRON RD": [
+        "street_address"
+    ],
+    "10141 WADSWORTH PKWY": [
+        "street_address"
+    ],
+    "10341 CAMINO RUIZ APT 71": [
+        "subpremise"
+    ],
+    "1046 W  LONDON PARK DRIVE": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "106 COMMERCE ST": [
+        "street_address"
+    ],
+    "1060 SOUTH ROGERS CIRCLE": [
+        "street_address"
+    ],
+    "10800 LACKMAN RD": [
+        "premise"
+    ],
+    "10F   NO 81  SEC  2  NANKAN RD": [
+        "street_address"
+    ],
+    "110 N  RUSSELL STREET  SUITE 1": [
+        "subpremise"
+    ],
+    "1100 E MILITARY HIGHWAY": [
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1125   1 SHINGIL   DONG DANWON": [
+        "premise",
+        "political"
+    ],
+    "1130 RINGWOOD CT": [
+        "street_address"
+    ],
+    "114 LAVENDER STREET": [
+        "street_address"
+    ],
+    "1141 CAMINO DEL RIO": [
+        "street_address"
+    ],
+    "11500 80 AVE": [
+        "street_address"
+    ],
+    "130 LEROY STREET": [
+        "premise"
+    ],
+    "13015 W RANCHO SANTA FE BLVD": [
+        "street_address"
+    ],
+    "1322 FERRY ST": [
+        "street_address"
+    ],
+    "1325 PROVIDENCE HWY": [
+        "street_address"
+    ],
+    "1329 S  STATE ST": [
+        "street_address"
+    ],
+    "13472 MARLEY AVE": [
+        "premise"
+    ],
+    "137 NATIONAL PLAZA": [
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1383 MAIN ST": [
+        "premise"
+    ],
+    "13890 CORPORATE WOODS TRL": [
+        "street_address"
+    ],
+    "15 COTTER LANE": [
+        "street_address"
+    ],
+    "15 PRESIDENTIAL WAY": [
+        "premise"
+    ],
+    "15  LINTANG BAYAN LEPAS 6 ": [
+        "street_address"
+    ],
+    "150 GROSSMAN DRIVE": [
+        "premise"
+    ],
+    "1507 EASTERN HARBOUR CENTRE": [
+        "premise"
+    ],
+    "1511 E  MCFADDEN AVE": [
+        "street_address"
+    ],
+    "15132 PARK OF COMMERCE BLVD": [
+        "premise"
+    ],
+    "13TH FL TOKYO NISHI IKEBUKURO": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+    ],
+    "14 MINNESOTA AVE": [
+        "street_address"
+    ],
+    "1515 RIO GRANDE DR APT 1210": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "13291 RALSTON AVE": [
+        "premise"
+    ],
+    "1335 EAGANDALE COURT": [
+        "street_address"
+    ],
+    "1520 ALBANY PLACE SE": [
+        "premise"
+    ],
+    "1584 BARCLAY BLVD": [
+        "premise"
+    ],
+    "15870 EL PRADO RD": [
+        "premise"
+    ],
+    "1594 BIDDLE RD": [
+        "street_address"
+    ],
+    "16 TZU CHIANG ROAD  HSINCHU IN": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1608 COUNTY HOSPITAL ROAD": [
+        "premise"
+    ],
+    "1399 YGNACIO VALLEY ROAD": [
+        "premise"
+    ],
+    "140 ISLAND WAY": [
+        "premise"
+    ],
+    "1465 JESUP AVE": [
+        "street_address"
+    ],
+    "1375 NORTH 28TH": [
+        "premise"
+    ],
+    "1347 EAST SAMPLE ROAD": [
+        "street_address"
+    ],
+    "14 BUBBLE CT": [
+        "street_address"
+    ],
+    "11911 FREEDAM DR 400": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1199 MOUNTAIN SWALLOW CT": [
+        "premise"
+    ],
+    "12014 EASTGATE BLVD": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1205 W 141 PL": [
+        "street_address"
+    ],
+    "1210 JOHN REED CT": [
+        "street_address"
+    ],
+    "1212 ANGYORYONEGISHI": [
+        "premise"
+    ],
+    "12220 SCRIPPS SUMMIT DR FL 3": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "124 CABLE CREEK C": [
+        "premise"
+    ],
+    "1275 VALLEY BROOK AVENUE": [
+        "street_address"
+    ],
+    "129 137 BEACONSFIELD ST": [
+        "street_address"
+    ],
+    "12B HANG THAN STR NGUYEN TRUNG": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "13015 WEST RANCHO SANTE FE": [
+        "street_address"
+    ],
+    "14F  1  NO 8  TAIYUAN 1ST ST  ": [
+        "subpremise"
+    ],
+    "14F    1  NO 8  TAIYUAN 1ST ST": [
+        "subpremise"
+    ],
+    "15 2F KUNG YEH E 4 RD S B I P": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1507 NW MILLER RD": [
+        "premise"
+    ],
+    "1517 W SWAN PL": [
+        "premise"
+    ],
+    "1525 LUNDY AVE": [
+        "street_address"
+    ],
+    "1544 9TH ST": [
+        "premise"
+    ],
+    "1544 9TH STREET 3": [
+        "street_address"
+    ],
+    "15525 WOODLNVILLE REDMOND NE": [
+        "street_address"
+    ],
+    "1573 UNION AVE": [
+        "street_address"
+    ],
+    "15805 NE 24TH ST": [
+        "street_address"
+    ],
+    "15865 SW 72ND AVE": [
+        "street_address"
+    ],
+    "13834 ANADA ST": [
+        "premise"
+    ],
+    "15939 INDUSTRIAL PKWY": [
+        "premise"
+    ],
+    "139 WU HAN RD": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1200 BIRCH ST": [
+        "premise"
+    ],
+    "1205 GENERAL EDWARDS HIGHWAY": [
+        "street_address"
+    ],
+    "1205 W 141ST PL": [
+        "premise"
+    ],
+    "1215 PIERCE ST": [
+        "premise"
+    ],
+    "11011 W CHARLESTON BLVD": [
+        "street_address"
+    ],
+    "111 CALUMET ST": [
+        "street_address"
+    ],
+    "11130 BLOOMFIELD AVE": [
+        "premise"
+    ],
+    "1125 1 SHIGIL DONG   DANWON GU": [
+        "premise",
+        "political"
+    ],
+    "115 6F MING CHUANG RD": [
+        "street_address"
+    ],
+    "1155 N 7TH ST": [
+        "premise"
+    ],
+    "124 COBBLE CREEK CURVE": [
+        "street_address"
+    ],
+    "124 HORIZON DRIVE": [
+        "premise"
+    ],
+    "12809 S 337TH E AVE": [
+        "premise"
+    ],
+    "12825 SW CANYON RD": [
+        "premise"
+    ],
+    "12F 63  SEC  1 SANMING RD": [
+        "street_address"
+    ],
+    "17 F   NINA TOWER TOWER II ": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "17 F  GOODMAN INTERLINK 39 TSI": [
+        "general_contractor",
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "1701 AIRPORT BOULEVARD SUITE B": [
+        "parking",
+        "premise",
+        "point_of_interest",
+        "establishment"
+    ],
+    "18 F   METROPOLE SQUARE": [
+        "premise"
+    ],
+    "1809 LAKE JODECO RD": [
+        "premise"
+    ],
+    "1858 EAST 51ST ST": [
+        "street_address"
+    ],
+    "1865 NORTHWESTERN DR": [
+        "premise"
+    ],
+    "18661 LYNDON B JOHNSON FWY": [
+        "premise"
+    ],
+    "18725 SAN JOSE AVE": [
+        "point_of_interest",
+        "establishment"
+    ],
+    "1160 MILLERS LANE": [
+        "street_address"
+    ],
+    "11614 S AUSTIN AVE": [
+        "street_address"
+    ],
+    "11869 TEALE STREET": [
+        "premise"
+    ],
+    "1192 DRAPER PARKWAY": [
+        "street_address"
+    ],
+    "1200 TAYLOR RD": [
+        "street_address"
+    ],
+    "1201 BELL AVE": [
+        "premise"
+    ],
+    "12048 ROSEVALLEY LN": [
+        "premise"
+    ],
+    "121 E BROKAW ROAD": [
+        "street_address"
+    ],
+    "1219 WEST GENEVA DRIVE": [
+        "premise"
+    ],
+    "122 MILLER ST": [
+        "premise"
+    ],
+    "122 MILLR ST": [
+        "premise"
+    ],
+    "124 GREOPRY AVE 301": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "125 E MALLARD DR APT 269": [
+        "real_estate_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "129 137 I BEACONSFIELD ST": [
+        "street_address"
+    ],
+    "13009 SE ANKENY ST": [
+        "premise"
+    ],
+    "1304 EASTERN HARBOUR CENTRE": [
+        "premise"
+    ],
+    "1115 ARYA DR": [
+        "premise"
+    ],
+    "1200 FOLSUN STREET": [
+        "street_address"
+    ],
+    "1171 N 4TH ST STE B": [
+        "street_address"
+    ],
+    "14160 SW 72ND AVE": [
+        "street_address"
+    ],
+    "14299 SW MERIDIAN M": [
+        "street_address"
+    ],
+    "14471 VIA VENEZIA APT 602": [
+        "subpremise"
+    ],
+    "1470 SADLER RD": [
+        "street_address"
+    ],
+    "15197 BOULDER AVE": [
+        "premise"
+    ],
+    "1321 S WINDCHESTER BLVD": [
+        "street_address"
+    ],
+    "14056 SOUTHWEST FWY": [
+        "premise"
+    ],
+    "1331 W CANARY WAY": [
+        "premise"
+    ],
+    "13340 NW KEETON PARK LN": [
+        "premise"
+    ],
+    "135 CALKINS RD": [
+        "premise"
+    ],
+    "13625 NE 126TH PLACE": [
+        "street_address"
+    ]
+}
